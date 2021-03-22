@@ -1,5 +1,5 @@
 data/
 documents/
 dockerfiles/
-*checkpoint.ipynb
+.ipynb_checkpoints/
 
