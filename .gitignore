@@ -1,4 +1,5 @@
 data/
 documents/
 dockerfiles/
+*checkpoint.ipynb
 
