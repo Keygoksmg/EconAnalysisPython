@@ -3,9 +3,9 @@
 
 それぞれ
 
-- [code_1.ipynb](https://github.com/Keygoksmg/EconAnalysisPython/blob/master/code1.ipynb)
-- [code_2.ipynb](https://github.com/Keygoksmg/EconAnalysisPython/blob/master/code2.ipynb)
-- [code_3.ipynb](https://github.com/Keygoksmg/EconAnalysisPython/blob/master/code3.ipynb)
+- [code1.ipynb](https://github.com/Keygoksmg/EconAnalysisPython/blob/master/code1.ipynb)
+- [code2.ipynb](https://github.com/Keygoksmg/EconAnalysisPython/blob/master/code2.ipynb)
+- [code3.ipynb](https://github.com/Keygoksmg/EconAnalysisPython/blob/master/code3.ipynb)
 
 にStataのコードと対応した形でpythonのコードが記述されています。
 
@@ -22,4 +22,3 @@ linearmodels
 ```
 
 を使用します。
-詳しくは
